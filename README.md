@@ -10,8 +10,6 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimce0405)](https://solved.ac/kimce0405)
 
 
-[![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaen-ing&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/chaen-ing/github-readme-stats)
-
 
 <br>
 
