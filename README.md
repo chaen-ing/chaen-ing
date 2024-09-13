@@ -16,9 +16,7 @@
 ## 💻 DEV's log 💻
 [![Chaeeun's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chaen-ing)](https://velog.io/@chaen-ing)
 
-[![Chaeeun's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaen-ing)](https://github.com/chaen-ing/velog-readme-stats)
-
-[![Chaeeun's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaen-ing&tag=backend)](https://github.com/chaen-ing/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaen-ing)](https://velog.io/@chaen-ing)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
