@@ -47,7 +47,7 @@
   <img
     src="https://render.gitanimals.org/lines/chaen-ing"
     width="600"
-    height="120"
+    height="150"
   />
 </a>
   
