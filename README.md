@@ -6,19 +6,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaen-ing%2Fhit-counter&count_bg=%23FFB6F7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/chaen-ing"
-  width="500"
-  height="300"
-/>
-</a>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaen-ing&layout=compact)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimce0405)](https://solved.ac/kimce0405)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimce0405)](https://solved.ac/kimce0405)
 
 
 <br>
@@ -51,5 +42,15 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <br>
 </div><br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaen-ing&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/chaen-ing"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 </div>
               
