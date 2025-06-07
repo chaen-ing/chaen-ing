@@ -1,55 +1,80 @@
-
-  
+<!-- 인사 & 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chaeeun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaen-ing%2Fhit-counter&count_bg=%23FFB6F7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimce0405)](https://solved.ac/kimce0405)
+## 👩‍💻 About Me
 
-[![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaen-ing&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 Back-End Developer in training
+- 📍 Interested in Java, Spring Boot, AWS, and DevOps
+- ✨ Passionate about clean code and practical architecture
+
+---
+
+## 📊 Programming Activity
+
+<p align="center">
+  <a href="https://solved.ac/kimce0405">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimce0405" alt="solved.ac 프로필">
+  </a>
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=chaen-ing&count_private=true&show_icons=true&theme=dracula" alt="chaen-ing GitHub Stats"/>
+  </a>
+</p>
+
+---
+
+## 🗂 Experience
+
+- 🎓 숭실대학교 재학 <sub>(2021.03 ~ )</sub>
+- 🪪 정보처리기사 <sub>(2024.06)</sub>
+- 🪪 SQLD 국가공인자격증 <sub>(2024.09)</sub>
+- 🛠 COTATO 연합 개발 동아리 10기 BE <sub>(2024.09 ~ 2025.02)</sub>
+- 🛠 IT's TIME 연합 개발 동아리 6,7기 BE <sub>(2024.09 ~ now)</sub>
+- ✨ [SeedZip](https://github.com/AdoongE/BE) 잇타 6기 최우수상 - 디지털 상의 유용한 정보를 저장하고, 필요할 때 찾아볼 수 있는 서비스 BE <sub>(2024.10 ~ now)</sub>
+- ✨ [Ripple](https://github.com/IT-Cotato/10th-Economic-Learning-BE) 누구나 경제를 쉽고 재미있게 배울 수 있도록 BE <sub>(2024.11 ~ 런칭준비중)</sub>
+- ✨ [끼니콩](https://github.com/Heroineeee/BE) - 아동급식카드를 사용하는 아이들을 위한 편리한 끼니 서비스 BE <sub>(2025.03 ~ now)</sub>
+- 👩‍🏫 고등학생 대상 SW 멘토 <sub>(2025.03 ~ now)</sub>
+
+---
 
 
-<br>
+## 📚 DEV's Log
 
-## 💻 DEV's log 💻
-[![Chaeeun's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chaen-ing)](https://velog.io/@chaen-ing)
+[![Velog posts](https://velog-readme-stats.vercel.app/api?name=chaen-ing)](https://velog.io/@chaen-ing)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaen-ing)](https://velog.io/@chaen-ing)
+---
 
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <br>
-</div><br>
+## 🛠 Tech Stack
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaen-ing&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/chaen-ing"
-    width="600"
-    height="150"
-  />
-</a>
-  
+### 💻 Languages & Frameworks
 
-</div>
-              
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+
+
+### ☁ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logoColor=white)
+
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaen-ing&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/chaen-ing" width="600" height="150" />
+  </a>
+</p>
+
