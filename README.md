@@ -33,11 +33,12 @@
 - 🛠 COTATO 연합 개발 동아리 10기 BE <sub>(2024.09 ~ 2025.02)</sub>
 - 🛠 IT's TIME 연합 개발 동아리 6,7기 BE <sub>(2024.09 ~ now)</sub>
 - ✨ [SeedZip](https://github.com/AdoongE/BE) 잇타 6기 최우수상 - 디지털 상의 유용한 정보를 저장하고, 필요할 때 찾아볼 수 있는 서비스 BE <sub>(2024.10 ~ 런칭 준비 중)</sub>
-- ✨ [Ripple](https://github.com/IT-Cotato/10th-Economic-Learning-BE) 누구나 경제를 쉽고 재미있게 배울 수 있도록 BE <sub>(2024.11 ~ 런칭 준비 중)</sub>
-- ✨ [끼니콩](https://github.com/Heroineeee/BE) 잇타 7기 최우수상 - 아동급식카드를 사용하는 아이들을 위한 편리한 끼니 서비스 BE <sub>(2025.03 ~ 서비스 배포 중)</sub>
+- ✨ [Ripple](https://github.com/IT-Cotato/10th-Economic-Learning-BE) 누구나 경제를 쉽고 재미있게 배울 수 있도록 BE <sub>(2024.11 ~ 2025.12)</sub>
+- ✨ [끼니콩](https://github.com/Heroineeee/BE) 잇타 7기 최우수상 - 아동급식카드를 사용하는 아이들을 위한 편리한 끼니 서비스 BE <sub>(2025.03 ~ 서비스 운영 중)</sub>
 - 👩‍🏫 고등학생 대상 SW 멘토 <sub>(2025.03 ~ 2025.07)</sub>
 - 🏆 SSU 컴퓨터학부 소프트웨어 공모전 총장상 <sub>(2025.07)</sub>
 - 🏆 SSU 유니톤 한컴 특별상 <sub>(2025.08)</sub>
+- 👩‍💻 동은정보기술 인턴 <sub>(2025.09 ~ 2025.12)</sub>
 
 ---
 
