@@ -18,9 +18,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimce0405" alt="solved.ac 프로필">
   </a>
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=chaen-ing&count_private=true&show_icons=true&theme=dracula" alt="chaen-ing GitHub Stats"/>
-  </a>
+
 </p>
 
 ---
