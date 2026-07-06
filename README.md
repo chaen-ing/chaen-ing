@@ -37,7 +37,7 @@
 - 🏆 SSU 컴퓨터학부 소프트웨어 공모전 총장상 <sub>(2025.07)</sub>
 - 🏆 SSU 유니톤 한컴 특별상 <sub>(2025.08)</sub>
 - 👩‍💻 동은정보기술 인턴 <sub>(2025.09 ~ 2025.12)</sub>
-- 🛠 SSAFY 15기 <sub>(2026.01 ~ 진행중)</sub>
+- 🛠 SSAFY 15기 <sub>(2026.01 ~ 2026.07)</sub>
 
 ---
 
@@ -74,9 +74,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
 
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=chaen-ing&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/chaen-ing" width="600" height="150" />
-  </a>
-</p>
-
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=chaen-ing&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/chaen-ing?pet-id=861892040760330325"
+    width="600"
+    height="150"
+  />
+</a>
+  
